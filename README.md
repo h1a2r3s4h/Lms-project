@@ -1,16 +1,30 @@
-<<<<<<< HEAD
-# vercel-Frontend
-=======
-# React + Vite
+# 📚 Learning Management System (LMS)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern web-based Learning Management System (LMS) that allows administrators, instructors, and students to manage courses, track progress, and deliver online education effectively.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
 
-## Expanding the ESLint configuration
+[Live Website](https://jade-phoenix-56f98c.netlify.app) 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 24ae070 (deploy frontend)
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (v14+)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+- MongoDB / Firebase / PostgreSQL for backend
+- Git
+
+### Installation
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/your-username/lms-website.git
+cd lms-website
+npm install
+npm run dev
