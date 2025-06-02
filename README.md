@@ -16,7 +16,6 @@ A modern web-based Learning Management System (LMS) that allows administrators, 
 
 - [Node.js](https://nodejs.org/) (v14+)
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
-- MongoDB / Firebase / PostgreSQL for backend
 - Git
 
 ### Installation
